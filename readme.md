@@ -46,5 +46,15 @@ Universidad de Lleida. Diciembre 2005 a Febrero 2006.
 * Rediseño del Sitio Web de [GRIHO (Grup de Recerca en Interacció Persona Ordinador i Integració de Dades)](http://www.griho.udl.cat/) de la Universitat de Lleida (2011)
 * Creación del sitio web de "[El vídeo sense barreres a la universitat](http://www.videoaccessible.udl.cat/)". (2013)
 
+## Aplicaciones
+* Programación:
+    * Delphi, Visual Basic, Visual C++, Borland C++, SQL, HTML5, CSS3, XML, JSP, Java, PHP, javascript, jQuery, Backbone, Typo3, OpenCMS, Wordpress, C#, XNA, Symfony 2, Clojure
+* Diseño:
+    * Photoshop CS, Dreamweaver, Flash, Director MX, 3DS MAX 2010
+* Ofimática:
+    * Microsoft Office (Word, Excel, Access, PowerPoint)
+* Conocimientos:
+    * Mac Os X, Linux, Redes, Látex, Ada.
+    * Usabilidad y Accesibilidad
 
 Copyright (c) 2013 Jonathan Chiné
