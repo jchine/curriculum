@@ -17,11 +17,13 @@
 * Colaborador del Grupo de Investigación en Interacción Persona Ordenador (GRIHO), de octubre de 2001 al abril 2012.
 * Colaborador en la empresa de Beat Consulting como grafista 3d, del 2005 al 2006.
 * Técnico Aux. en Informática de gestión en el Ayuntamiento de Lleida, 2007 al 2009.
-* Profesor asociado a tiempo parcial en la Escuela Politécnica Superior de la Universidad de Lleida, curso 2007/08  en las asignaturas:
-    * Diseño gráfico e Iniciación al Diseño de Sistemas Web del  Master de Interacción Perso-na-Ordenador.
+* Profesor asociado a tiempo parcial en la Escuela Politécnica Superior de la Universidad de Lleida, curso 2007/08 en las asignaturas:
+    * Diseño gráfico e Iniciación al Diseño de Sistemas Web del  Master de Interacción Persona-Ordenador.
     * Tema de XML en el Bloque de Interacción Persona-Ordenador (IPO).
 * Profesor del Curso "Bones practiques en el disseny de pàgines Web". Universitat de Lleida. Verano del 2009
-
+* Técnico Aux. en Informática en el Ayuntamiento de Lleida, Navidad del 2013.
+* Profesor asociado a tiempo parcial en la Escuela Politécnica Superior de la Universidad de Lleida, curso 2013/14 en la asignatura "Plaformas en Red" (2º semestre) sobre el tema Node.js.
+ 
 ## Participación en proyectos
 * Página Web de "[La Reserva Natural de Sebes](http://www.reservanaturalsebes.org)" en Flix _(2001)_
 * Corto de Animación 3D "[Fustes](http://griho2.udl.es/castella/projectes/realitat/fustes.html)" _(2002)_
@@ -48,7 +50,7 @@ Universidad de Lleida. _(12/2005 - 02/2006)_
 
 ## Aplicaciones
 * Programación:
-    * Delphi, Visual Basic, Visual C++, Borland C++, SQL, HTML5, CSS3, XML, JSP, Java, PHP, javascript, jQuery, Backbone, Typo3, OpenCMS, Wordpress, C#, XNA, Symfony 2, Clojure
+    * Delphi, Visual Basic, Visual C++, Borland C++, SQL, HTML5, CSS3, XML, JSP, Java, PHP, javascript, Node.js, jQuery, Backbone, Typo3, OpenCMS, Wordpress, C#, XNA, Symfony 2, Clojure
 * Diseño:
     * Photoshop CS, Dreamweaver, Flash, Director MX, 3DS MAX 2010
 * Ofimática:
