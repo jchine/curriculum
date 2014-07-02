@@ -47,6 +47,7 @@ Universidad de Lleida. _(12/2005 - 02/2006)_
 * Colaborador en la programación del sitio Web "[Càtedra Màrius Torres](http://www.catedramariustorres.udl.cat/)" _(desde 03/2011)_
 * Rediseño del Sitio Web de [GRIHO (Grup de Recerca en Interacció Persona Ordinador i Integració de Dades)](http://www.griho.udl.cat/) de la Universitat de Lleida _(04/2012 - 06/2012)_
 * Creación del sitio web de "[El vídeo sense barreres a la universitat](http://www.videoaccessible.udl.cat/)" _(02/2013)_
+* Profesor asociado en la [EPS](http://www.eps.udl.es/) - Universitat de Lleida, en la asignatura de "Plataformes en Xarxa" _(curso 2013/2014)_
 
 ## Aplicaciones
 * Programación:
