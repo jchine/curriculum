@@ -23,6 +23,7 @@
 * Profesor del Curso "Bones practiques en el disseny de pàgines Web". Universitat de Lleida. Verano del 2009
 * Técnico Aux. en Informática en el Ayuntamiento de Lleida, Navidad del 2013.
 * Profesor asociado a tiempo parcial en la Escuela Politécnica Superior de la Universidad de Lleida, curso 2013/14 en la asignatura "Plaformas en Red" (2º semestre) sobre el tema Node.js.
+* Autonomo desde el 2014
  
 ## Participación en proyectos
 * Página Web de "[La Reserva Natural de Sebes](http://www.reservanaturalsebes.org)" en Flix _(2001)_
@@ -50,7 +51,7 @@ Universidad de Lleida. _(12/2005 - 02/2006)_
 * Profesor asociado en la [EPS](http://www.eps.udl.es/) - Universitat de Lleida, en la asignatura de "Plataformes en Xarxa" _(curso 2013/2014)_
 
 ## Aplicaciones
-* Programación:
+* Programación y Frameworks:
     * Delphi, Visual Basic, Visual C++, Borland C++, SQL, HTML5, CSS3, XML, JSP, Java, PHP, javascript, Node.js, jQuery, Backbone, Typo3, OpenCMS, Wordpress, C#, XNA, Symfony 2, Clojure
 * Diseño:
     * Photoshop CS, Dreamweaver, Flash, Director MX, 3DS MAX 2010
